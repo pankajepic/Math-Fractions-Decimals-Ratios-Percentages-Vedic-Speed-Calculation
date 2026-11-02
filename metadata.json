@@ -1,0 +1,6 @@
+{
+  "name": "Math & Vedic Speed Calculation Studio",
+  "description": "Interactive illustrated textbook, visual simulators, step-by-step calculators, and timed drills for Fractions, Decimals, Ratios, Percentages, and Vedic Mental Arithmetic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
